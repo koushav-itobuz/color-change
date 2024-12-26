@@ -1,0 +1,10 @@
+.head {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 600px;
+}
+
+.foot {
+  display: flex;
+  justify-content: space-between;
+}/*# sourceMappingURL=style.css.map */
